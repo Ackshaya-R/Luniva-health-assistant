@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Luniva</string>
+    <string name="health_assistant">Health Assistant</string>
+    <string name="home">Home</string>
+    <string name="meds">Reminder</string>
+    <string name="sos">Emergency</string>
+    <string name="chat">Chatbot</string>
+    <string name="language">Language</string>
+
+    <string name="tagline">Your Digital Sanctuary for Mindful Health</string>
+
+    <string name="reminder">Reminder</string>
+    <string name="add_by_voice">Add by Voice</string>
+    <string name="medicine_name">Reminder Message</string>
+    <string name="reminder_time">Reminder time (minutes)</string>
+    <string name="save_reminder">Save Reminder</string>
+
+    <string name="emergency_center">Emergency Center</string>
+    <string name="enter_emergency_contact">Enter emergency contact number</string>
+    <string name="save_emergency_contact">Save Emergency Contact</string>
+
+    <string name="select_language">Select your preferred language</string>
+    <string name="english">English</string>
+    <string name="tamil">Tamil</string>
+    <string name="hindi">Hindi</string>
+    <string name="save_and_apply">Save and Apply</string>
+
+    <string name="fill_fields">Please fill all fields</string>
+    <string name="reminder_set_success">Reminder set successfully</string>
+    <string name="enter_minutes_only">Enter time in minutes only</string>
+    <string name="voice_prompt">Speak your reminder</string>
+    <string name="voice_not_supported">Voice input not supported</string>
+
+    <string name="notification_title">Luniva Reminder</string>
+    <string name="notification_channel_name">Reminder Notifications</string>
+    <string name="notification_channel_desc">General reminder notifications</string>
+    <string name="default_reminder_message">This is your reminder</string>
+
+    <string name="contact_saved">Emergency contact saved</string>
+    <string name="save_number_first">Save emergency number first</string>
+    <string name="say_time_format">Say reminder with time, for example: Drink water after 1 minute</string>
+</resources>

@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:title="@string/home" android:icon="@android:drawable/ic_menu_view"/>
+    <item android:id="@+id/nav_meds" android:title="@string/meds" android:icon="@android:drawable/ic_menu_agenda"/>
+    <item android:id="@+id/nav_sos" android:title="@string/sos" android:icon="@android:drawable/ic_dialog_alert"/>
+    <item android:id="@+id/nav_chat" android:title="@string/chat" android:icon="@android:drawable/ic_menu_send"/>
+    <item android:id="@+id/nav_lang" android:title="@string/language" android:icon="@android:drawable/ic_menu_manage"/>
+</menu>

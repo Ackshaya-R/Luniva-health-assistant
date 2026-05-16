@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#7B61FF</color>
+    <color name="soft_pink">#F8D7E8</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="text_dark">#2D3748</color>
+    <color name="text_medium">#7A7A7A</color>
+
+    <color name="background_main">#F7F4EF</color>
+    <color name="med_green">#58C3B3</color>
+    <color name="soft_lavender">#DCCEF9</color>
+    <color name="danger_pink">#F45B8A</color>
+
+    <color name="light_green">#D8F3DC</color>
+    <color name="lavender">#EADCF8</color>
+    <color name="light_pink">#FCE4EC</color>
+    <color name="light_blue">#DCEBFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="dark_gray">#616161</color>
+
+    <color name="nav_selected">#6A5AE0</color>   <!-- Selected icon -->
+    <color name="nav_unselected">#A0A0A0</color> <!-- Unselected icon -->
+    <color name="nav_background">#FFFFFF</color> <!-- Background -->
+
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">लुनिवा</string>
+    <string name="health_assistant">हेल्थ असिस्टेंट</string>
+    <string name="home">होम</string>
+    <string name="meds">रिमाइंडर</string>
+    <string name="sos">आपातकाल</string>
+    <string name="chat">चैट</string>
+    <string name="language">भाषा</string>
+
+    <string name="tagline">आपके मानसिक स्वास्थ्य के लिए डिजिटल साथी</string>
+
+    <string name="reminder">रिमाइंडर</string>
+    <string name="add_by_voice">आवाज़ से जोड़ें</string>
+    <string name="medicine_name">रिमाइंडर संदेश</string>
+    <string name="reminder_time">रिमाइंडर समय (मिनटों में)</string>
+    <string name="save_reminder">रिमाइंडर सेव करें</string>
+
+    <string name="emergency_center">आपातकालीन केंद्र</string>
+    <string name="enter_emergency_contact">आपातकालीन संपर्क नंबर दर्ज करें</string>
+    <string name="save_emergency_contact">आपातकालीन संपर्क सेव करें</string>
+
+    <string name="select_language">अपनी पसंदीदा भाषा चुनें</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="tamil">तमिल</string>
+    <string name="hindi">हिंदी</string>
+    <string name="save_and_apply">सेव करें और लागू करें</string>
+
+    <string name="fill_fields">कृपया सभी फ़ील्ड भरें</string>
+    <string name="reminder_set_success">रिमाइंडर सफलतापूर्वक सेट हो गया</string>
+    <string name="enter_minutes_only">समय केवल मिनटों में दर्ज करें</string>
+    <string name="voice_prompt">अपना रिमाइंडर बोलें</string>
+    <string name="voice_not_supported">वॉइस इनपुट समर्थित नहीं है</string>
+
+    <string name="notification_title">लुनिवा रिमाइंडर</string>
+    <string name="notification_channel_name">रिमाइंडर सूचनाएँ</string>
+    <string name="notification_channel_desc">सामान्य रिमाइंडर सूचनाएँ</string>
+    <string name="default_reminder_message">यह आपका रिमाइंडर है</string>
+
+    <string name="contact_saved">आपातकालीन संपर्क सेव हो गया</string>
+    <string name="save_number_first">पहले आपातकालीन नंबर सेव करें</string>
+    <string name="say_time_format">समय के साथ रिमाइंडर बोलें, जैसे: पानी पीना 1 मिनट बाद</string>
+</resources>

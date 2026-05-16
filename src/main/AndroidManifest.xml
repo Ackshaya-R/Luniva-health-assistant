@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.acksha.healthassistant">
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Splash Screen (Launcher) -->
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Main Home Screen -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- Medication Screen -->
+        <activity
+            android:name=".MedicationActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- Emergency Screen -->
+        <activity
+            android:name=".EmergencyActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- Language Screen -->
+        <activity
+            android:name=".LanguageActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- Chatbot Screen -->
+        <activity
+            android:name=".ChatbotActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+
+        <!-- Alarm Receiver -->
+        <receiver
+            android:name=".AlarmReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+    </application>
+
+</manifest>
